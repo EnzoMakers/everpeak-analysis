@@ -12,7 +12,7 @@ O dataset `everpeak_retail` inclui 2.000 pedidos de clientes com valores ausente
 ## Como abrir o notebook no Google Colab ▶
 
 Clique no botão a seguir:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](URL_DO_NOTEBOOK_NO_GITHUB)
+[![Open In Colab](https://colab.research.google.com/notebooks/intro.ipynb)](URL_DO_NOTEBOOK_NO_GITHUB)
 
 Ou:
 
